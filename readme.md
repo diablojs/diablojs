@@ -7,6 +7,7 @@
 
 
 ## Introduction
+[![Discord](https://img.shields.io/discord/102860784329052160.svg)](https://discord.gg/PCJCmnr)
 [![GitHub stars](https://img.shields.io/github/stars/diablojs/diablojs.svg?style=flat-square)](https://github.com/diablojs/diablojs/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/diablojs/diablojs.svg?style=flat-square)](https://github.com/diablojs/diablojs/issues)
 
@@ -32,6 +33,8 @@ In a production environment `npm run production` significantly reduces file size
 ## Backers 
 
 Thank you to all our backers! 🙏 
+
+[![Discord](https://img.shields.io/discord/102860784329052160.svg)](https://discord.gg/PCJCmnr)
 
 <a href="https://www.patreon.com/diablojs" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"></a>
 
