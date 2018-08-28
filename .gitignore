@@ -1,0 +1,4 @@
+public/js/
+public/css/
+node_modules/
+.env
