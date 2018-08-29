@@ -12,7 +12,7 @@ Vue.component('example-component', require('./components/ExampleComponent.vue'))
 const app = new Vue({
     sockets: {
         connect: function () {
-            alert('socket.io connected')
+            console.log('connected to socket.io')
         },
     },
     el: '#app'
